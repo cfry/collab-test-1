@@ -1,5 +1,9 @@
 {
-  "scripts": {},
+  "scripts": {
+    "build": "rollup --config",
+    "start": "npm run build && node bundle.js"
+  },
+  "type": "module",
   "dependencies": {
     "rollup": "^2.60.0"
   }

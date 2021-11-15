@@ -1,0 +1,1 @@
+export default "custom-module-1 string";
