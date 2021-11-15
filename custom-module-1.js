@@ -1,1 +1,1 @@
-export default "custom-module-1 string";
+export default "custom-module-1, the first module, string";
