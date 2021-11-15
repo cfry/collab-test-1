@@ -1,3 +1,6 @@
 {
-  "scripts": {}
+  "scripts": {},
+  "dependencies": {
+    "rollup": "^2.60.0"
+  }
 }
